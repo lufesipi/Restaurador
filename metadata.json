@@ -1,0 +1,5 @@
+{
+  "name": "Restaurador de Fotos com IA",
+  "description": "Um aplicativo que utiliza IA para analisar e restaurar fotos antigas. Envie uma imagem, receba um prompt de restauração sugerido, ajuste se desejar e veja a mágica acontecer.",
+  "requestFramePermissions": []
+}
